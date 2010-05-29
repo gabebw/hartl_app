@@ -1,2 +1,1 @@
-# Fix for heroku's "Missing the Rails 2.3.8 gem." error
 rails --version 2.3.8
